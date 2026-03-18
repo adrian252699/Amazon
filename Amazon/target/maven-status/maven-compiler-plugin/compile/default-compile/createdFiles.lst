@@ -1,0 +1,7 @@
+com\mycompany\amazon\Amazon.class
+entidades\ClienteCorreos.class
+entidades\ClientesTelefonos.class
+entidades\DetallesPedido.class
+entidades\Producto.class
+entidades\Cliente.class
+entidades\Pedido.class
